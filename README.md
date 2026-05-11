@@ -6,6 +6,7 @@
 
 - 🫀 [OpenHuman Atlas](https://www.openhumanatlas.com): Smart interactive atlas for human anatomy and surgery.
 - 👆🏻 [Airpoint](https://www.airpoint.app): Touchless computing with hand gestures.
+- 👆🏻 [Airpoint SDK](https://www.airpoint.app): Add touchless controls to any web application.
 - 🖥️ [N8AO WebGPU](https://www.github.com/marioandf/n8ao-webgpu): Custom N8AO adaptation for WebGPU.
 
 ## Retired Projects
